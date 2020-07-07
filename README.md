@@ -1,1 +1,2 @@
-# Powerbi-JavaScript-REST_API
+# PowerBi-JavaScript-REST_API
+JavaScript API provides bidirectional communication between Power BI reports and application. Will use JavaScript API to embed report into your external customer facing website. Customers don't require account in PowerBi. You need one single account that has an access to all your reports.  Configure your account with proper Row Level Security (Ref: https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls))
